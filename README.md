@@ -4,7 +4,7 @@ A clean, cartographic-editorial personal site featuring a sticky sidebar,
 SPA-style submenu navigation, and an interactive D3 orthographic globe
 visualizing the international reach of the research network.
 
-Live at: **https://alexandor91.github.io/profiles_web/**
+Live at: **https://alexandor91.github.io**
 
 ## File layout
 
